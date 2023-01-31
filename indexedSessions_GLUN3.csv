@@ -7,10 +7,20 @@ hps23_160621_sess11,hps23,hps23\hps23_160621_sess11,c57b1/6,wild type,open field
 hps23_110621_sess10,hps23,hps23\hps23_110621_sess10,c57b1/6,wild type,open field baseline y maze baseline  open field vehicle y maze vehicle,65,VISp disSUBsp pSUBsp CA1sp CA1sr,vehicle,MK801Project
 hps24_280621_sess5,hps24,hps24\hps24_280621_sess5,c57b1/6,glun3,open field baseline y maze baseline open field vehicle y maze vehicle,19,VISp disSUBsp pSUBsp CA1sp CA1sr,vehicle,MK801Project
 hps24_290621_sess6,hps24,hps24\hps24_290621_sess6,c57b1/6,glun3,open field baseline y maze baseline open field mk801 y maze mk801,25,VISp disSUBsp pSUBsp CA1sp CA1sr,mk801,MK801Project
+hps24_230621_sess4,hps24,hps24\hps24_230621_sess4,c57b1/6,glun3,open field baseline y maze baseline open field ketamine y maze ketamine,40,VISp disSUBsp pSUBsp CA1sp CA1sr,ketamine,MK801Project
 hps25_050721_sess4,hps25,hps25\hps25_050721_sess4,c57b1/6,glun3,open field baseline y maze baseline open field mk801 y maze mk801,132,VISp disSUBsp pSUBsp CA1sp,mk801,MK801Project
 hps25_240621_sess2,hps25,hps25\hps25_240621_sess2,c57b1/6,glun3,open field baseline y maze baseline open field ketamine y maze ketamine,26,VISp pSUBsp CA1sp CA1sr,ketamine,MK801Project
 ipo430_111021_sess1,ipo430,ipo430\ipo430_111021_sess1,c57b1/6,glun3,open field baseline y maze baseline open field vehicle y maze vehicle,6,CA1so CA1sp CA1sr,vehicle,MK801Project
+ipo430_131021_sess2,ipo430,ipo430\ipo430_131021_sess2,c57b1/6,glun3,open field baseline open field ketamine,6,PTLp CA1so CA1sp,ketamine,MK801Project
+ipo430_151021_sess3,ipo430,ipo430\ipo430_151021_sess3,c57b1/6,glun3,open field baseline open field mk801,5,PTLp CA1so CA1sp,mk801,MK801Project
+ipo429_111021_sess1,ipo429,ipo429\ipo429_111021_sess1,c57b1/6,wild type,open field baseline home cage ymaze1 baseline open field vehicle home cage ymaze2 vehicle,8,PTLp CA1so CA1sp,vehicle,MK801Project
+ipo429_131021_sess2,ipo429,ipo429\ipo429_131021_sess2,c57b1/6,wild type,open field baseline open field ketamine,6,PTLp CA1so CA1sp,ketamine,MK801Project
+ipo429_151021_sess3,ipo429,ipo429\ipo429_151021_sess3,c57b1/6,wild type,open field baseline open field mk801,4,PTLp CA1so CA1sp,mk801,MK801Project
+ipo149_231021_sess3,ipo149,ipo149\ipo149_231021_sess3,c57b1/6,glun3,open field baseline open field mk801,10,PTLp CA1so CA1sp,mk801,MK801Project
 ipo149_251021_sess4,ipo149,ipo149\ipo149_251021_sess4,c57b1/6,glun3,open field ketamine open field ketamine,12,CA1sp Cortex PTLp,ketamine,MK801Project
+ipo149_281021_sess5,ipo149,ipo149\ipo149_281021_sess5,c57b1/6,glun3,open field baseline open field vehicle,13,CA1 PTLp,vehicle,MK801Project
 ipo150_261021_sess2,ipo150,ipo150\ipo150_261021_sess2,c57b1/6,glun3,open field baseline open field mk801,34,pCA1sp PTLp,mk801,MK801Project
 ipo150_091121_sess4,ipo150,ipo150\ipo150_091121_sess4,c57b1/6,glun3,open field baseline home cage vehicle,11,CA1sp CA1so,vehicle,MK801Project
 ipo150_291021_sess3,ipo150,ipo150\ipo150_291021_sess3,c57b1/6,glun3,open field baseline open field ketamine,28,pCA1sp PTLp,ketamine,MK801Project
+fcr1_220402_sess26,fcr1,fcr1\fcr1_220402_sess26,c57b1/6,vip/cr/ai80,tmaze home cage tmaze,56,CA1sp PTLp1 CA1so CA1sr CA1slm CA3sp,mk801,MK801Project
+fcr1_220404_sess27,fcr1,fcr1\fcr1_220404_sess27,c57b1/6,vip/cr/ai80,tmaze tmaze,49,CA1sp CA1sr CA1slm CA3 PTLp1,vehicle,MK801Project
