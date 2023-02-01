@@ -25,3 +25,4 @@ ipo447_181121_sess1,ipo447,ipo447\ipo447_181121_sess1,c57b1/6,wild type,open fie
 ipo447_241121_sess4,ipo447,ipo447\ipo447_241121_sess4,c57b1/6,wild type,open field baseline open field ketamine,4,mPFC CA1sp,ketamine,MK801Project
 fcr1_220402_sess26,fcr1,fcr1\fcr1_220402_sess26,c57b1/6,vip/cr/ai80,tmaze home cage tmaze,56,CA1sp PTLp1 CA1so CA1sr CA1slm CA3sp,mk801,MK801Project
 fcr1_220404_sess27,fcr1,fcr1\fcr1_220404_sess27,c57b1/6,vip/cr/ai80,tmaze tmaze,49,CA1sp CA1sr CA1slm CA3 PTLp1,vehicle,MK801Project
+fcamk7_220509_sess27,fcamk7,fcamk7\fcamk7_220509_sess27,c57b1/6,camk7,tmaze baseline tmaze vehicle,126,disCA1sr disCA1sp disSUBsp PTLp mPFC,vehicle,MK801Project
