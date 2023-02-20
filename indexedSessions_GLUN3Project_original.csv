@@ -2,6 +2,9 @@ SessionName,Subject,Path,Strain,GeneticLine,Behavior,numCells,brainRegions,Drug,
 hps22_100621_sess26,hps22,hps22\hps22_100621_sess26,c57b1/6,wild type,open field baseline y maze baseline open field mk801 y maze mk801,38,VISp CA1sp CA1sr,mk801,MK801Project
 hps22_150621_sess27,hps22,hps22\hps22_150621_sess27,c57b1/6,wild type,open field baseline home cage y maze baseline open field vehicle home cage y maze vehicle,33,VISp pSUBsp CA1sp,vehicle,MK801Project
 hps22_160621_sess28,hps22,hps22\hps22_160621_sess28,c57b1/6,wild type,open field baseline y maze baseline,22,VISp CA1sp CA1sr,ketamine,MK801Project
+hps23_090621_sess9,hps23,hps23\hps23_090621_sess9,c57b1/6,wild type,open field baseline y maze baseline open field mk801 y maze mk801,39,VISp pSUBsp CA1sp CA1sr,mk801,MK801Project
+hps23_160621_sess11,hps23,hps23\hps23_160621_sess11,c57b1/6,wild type,open field baseline y maze baseline open field ketamine y maze ketamine,48,VISp disSUBsp pSUBsp CA1sr,ketamine,MK801Project
+hps23_110621_sess10,hps23,hps23\hps23_110621_sess10,c57b1/6,wild type,open field baseline y maze baseline  open field vehicle y maze vehicle,65,VISp disSUBsp pSUBsp CA1sp CA1sr,vehicle,MK801Project
 hps24_280621_sess5,hps24,hps24\hps24_280621_sess5,c57b1/6,glun3,open field baseline y maze baseline open field vehicle y maze vehicle,19,VISp disSUBsp pSUBsp CA1sp CA1sr,vehicle,MK801Project
 hps24_290621_sess6,hps24,hps24\hps24_290621_sess6,c57b1/6,glun3,open field baseline y maze baseline open field mk801 y maze mk801,25,VISp disSUBsp pSUBsp CA1sp CA1sr,mk801,MK801Project
 hps24_230621_sess4,hps24,hps24\hps24_230621_sess4,c57b1/6,glun3,open field baseline y maze baseline open field ketamine y maze ketamine,40,VISp disSUBsp pSUBsp CA1sp CA1sr,ketamine,MK801Project
