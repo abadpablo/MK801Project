@@ -1,23 +1,14 @@
 SessionName,Subject,Path,Strain,GeneticLine,Behavior,numCells,brainRegions,Drug,Project
-hps22_100621_sess26,hps22,hps22\hps22_100621_sess26,c57b1/6,wild type,open field baseline y maze baseline open field mk801 y maze mk801,38,VISp CA1sp CA1sr,mk801,MK801Project
-hps22_150621_sess27,hps22,hps22\hps22_150621_sess27,c57b1/6,wild type,open field baseline home cage y maze baseline open field vehicle home cage y maze vehicle,33,VISp pSUBsp CA1sp,vehicle,MK801Project
-hps22_160621_sess28,hps22,hps22\hps22_160621_sess28,c57b1/6,wild type,open field baseline y maze baseline,22,VISp CA1sp CA1sr,ketamine,MK801Project
-hps24_280621_sess5,hps24,hps24\hps24_280621_sess5,c57b1/6,glun3,open field baseline y maze baseline open field vehicle y maze vehicle,19,VISp disSUBsp pSUBsp CA1sp CA1sr,vehicle,MK801Project
-hps24_290621_sess6,hps24,hps24\hps24_290621_sess6,c57b1/6,glun3,open field baseline y maze baseline open field mk801 y maze mk801,25,VISp disSUBsp pSUBsp CA1sp CA1sr,mk801,MK801Project
-hps24_230621_sess4,hps24,hps24\hps24_230621_sess4,c57b1/6,glun3,open field baseline y maze baseline open field ketamine y maze ketamine,40,VISp disSUBsp pSUBsp CA1sp CA1sr,ketamine,MK801Project
-hps25_050721_sess4,hps25,hps25\hps25_050721_sess4,c57b1/6,glun3,open field baseline y maze baseline open field mk801 y maze mk801,132,VISp disSUBsp pSUBsp CA1sp,mk801,MK801Project
-hps25_240621_sess2,hps25,hps25\hps25_240621_sess2,c57b1/6,glun3,open field baseline y maze baseline open field ketamine y maze ketamine,26,VISp pSUBsp CA1sp CA1sr,ketamine,MK801Project
-ipo430_111021_sess1,ipo430,ipo430\ipo430_111021_sess1,c57b1/6,glun3,open field baseline y maze baseline open field vehicle y maze vehicle,6,CA1so CA1sp CA1sr,vehicle,MK801Project
-ipo430_131021_sess2,ipo430,ipo430\ipo430_131021_sess2,c57b1/6,glun3,open field baseline open field ketamine,6,PTLp CA1so CA1sp,ketamine,MK801Project
-ipo430_151021_sess3,ipo430,ipo430\ipo430_151021_sess3,c57b1/6,glun3,open field baseline open field mk801,5,PTLp CA1so CA1sp,mk801,MK801Project
-ipo429_111021_sess1,ipo429,ipo429\ipo429_111021_sess1,c57b1/6,wild type,open field baseline home cage ymaze1 baseline open field vehicle home cage ymaze2 vehicle,8,PTLp CA1so CA1sp,vehicle,MK801Project
-ipo429_131021_sess2,ipo429,ipo429\ipo429_131021_sess2,c57b1/6,wild type,open field baseline open field ketamine,6,PTLp CA1so CA1sp,ketamine,MK801Project
-ipo429_151021_sess3,ipo429,ipo429\ipo429_151021_sess3,c57b1/6,wild type,open field baseline open field mk801,4,PTLp CA1so CA1sp,mk801,MK801Project
-ipo149_231021_sess3,ipo149,ipo149\ipo149_231021_sess3,c57b1/6,glun3,open field baseline open field mk801,10,PTLp CA1so CA1sp,mk801,MK801Project
-ipo149_251021_sess4,ipo149,ipo149\ipo149_251021_sess4,c57b1/6,glun3,open field ketamine open field ketamine,12,CA1sp Cortex PTLp,ketamine,MK801Project
-ipo149_281021_sess5,ipo149,ipo149\ipo149_281021_sess5,c57b1/6,glun3,open field baseline open field vehicle,13,CA1 PTLp,vehicle,MK801Project
-ipo150_261021_sess2,ipo150,ipo150\ipo150_261021_sess2,c57b1/6,glun3,open field baseline open field mk801,34,pCA1sp PTLp,mk801,MK801Project
-ipo150_091121_sess4,ipo150,ipo150\ipo150_091121_sess4,c57b1/6,glun3,open field baseline home cage vehicle,11,CA1sp CA1so,vehicle,MK801Project
-ipo150_291021_sess3,ipo150,ipo150\ipo150_291021_sess3,c57b1/6,glun3,open field baseline open field ketamine,28,pCA1sp PTLp,ketamine,MK801Project
-ipo447_181121_sess1,ipo447,ipo447\ipo447_181121_sess1,c57b1/6,wild type,open field baseline open field vehicle,4,mPFC pCA1sp,vehicle,MK801Project
-ipo447_241121_sess4,ipo447,ipo447\ipo447_241121_sess4,c57b1/6,wild type,open field baseline open field ketamine,4,mPFC CA1sp,ketamine,MK801Project
+ipo16559_090623_sess1,ipo16559,ipo16559\ipo16559_090623_sess1,c57b1/6,wild type,open field,44,CA1sp PTLp CA1sr CA1slm CA3,no,MK801Project
+ipo16559_120623_sess2,ipo16559,ipo16559\ipo16559_120623_sess2,c57b1/6,wild type,open field,66,PTLp CA1 CA3,no,MK801Project
+ipo14369_090623_sess1,ipo14369,ipo14369\ipo14369_090623_sess1,c57b1/6,glun3,open field,63,CA1 PTLp CA3,no,MK801Project
+ipo16559_130623_sess3,ipo16559,ipo16559\ipo16559_130623_sess3,c57b1/6,wild type,open field,89,CA1 PTLp CA3,no,MK801Project
+ipo14370_160623_sess1,ipo14370,ipo14370\ipo14370_160623_sess1,c57b1/6,wild type,open field,82,CA1 PTLp CA3,no,MK801Project
+ipo16559_140623_sess4,ipo16559,ipo16559\ipo16559_140623_sess4,c57b1/6,wild type,ymaze,99,CA1 CA3 PTLp,no,MK801Project
+ipo16559_150623_sess5,ipo16559,ipo16559\ipo16559_150623_sess5,c57b1/6,wild type,ymaze sample,94,CA1 PTLp CA3,no,MK801Project
+ipo14369_060723_sess9,ipo14369,ipo14369\ipo14369_060723_sess9,c57b1/6,glun3,open field,104,CA1 PTLp CA3,no,MK801Project
+ipo14370_220623_sess3,ipo14370,ipo14370\ipo14370_220623_sess3,c57b1/6,wild type,open field,26,CA1 PTLp CA3,no,MK801Project
+ipo14370_190623_sess2,ipo14370,ipo14370\ipo14370_190623_sess2,c57b1/6,wild type,open field,64,CA1 PTLp CA3,no,MK801Project
+ipo14369_050723_sess8,ipo14369,ipo14369\ipo14369_050723_sess8,c57b1/6,wild type,open field,114,CA1 PTLp CA3,no,MK801Project
+ipo11700_120623_sess2,ipo11700,ipo11700\ipo11700_120623_sess2,c57b1/6,glun3,open field,76,CA1 PTLp CA3,no,MK801Project
+ipo14369_070723_sess10,ipo14369,ipo14369\ipo14369_070723_sess10,c57b1/6,glun3,open field,80,CA1 PTLp CA3,no,MK801Project
