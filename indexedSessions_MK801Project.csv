@@ -56,3 +56,4 @@ ipo14369_130623_sess2,ipo14369,ipo14369\ipo14369_130623_sess2,c57b1/6,glun3,home
 ipo14370_240723_sess16,ipo14370,ipo14370\ipo14370_240723_sess16,c57b1/6,wild type,open field baseline open field vehicle,95,CA1 CA3 PTLp,vehicle,MK801Project
 fcr4_220429_sess17,fcr4,fcr4\fcr4_220429_sess17,c57b1/6,wild type,open field baseline open field mk801,64,PTLp CA1 CA3,mk801,MK801Project
 fcr4_220504_sess18,fcr4,fcr4\fcr4_220504_sess18,c57b1/6,vip/cr/ai80,tmaze baseline tmaze vehicle,68,CA1sp PTLp CA3,vehicle,MK801Project
+fcamk7_220510_sess128,fcamk7,fcamk7\fcamk7_220510_sess128,c57b1/6,wild type,tmaze baseline tmaze mk801,143,PTLp CA1 mPFC,mk801,MK801Project
