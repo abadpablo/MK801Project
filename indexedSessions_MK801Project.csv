@@ -66,4 +66,4 @@ ipo16559_280623_sess9,ipo16559,ipo16559\ipo16559_280623_sess9,c57b1/6,wild type,
 ipo16559_290623_sess10,ipo16559,ipo16559\ipo16559_290623_sess10,c57b1/6,wild type,pc,63,CA1 PTLp CA3,no,MK801Project
 fcamk7_220514_sess30,fcamk7,fcamk7\fcamk7_220514_sess30,c57b1/6,wild type,tmaze baseline tmaze vehicle,165,CA1 PTLp mPFC,vehicle,MK801Project
 app039033_051223_sess32,app039033,app039033\app039033_051223_sess32,c57b1/6,wild type,open field baseline open field vehicle,66,PTLp CA1,vehicle,MK801Project
-dreadd1_200524_sess5,dreadd1,dreadd1\dreadd1_200524_sess5,c57b1/6,wild type,no,66,CA1_right PTLp_right CA1_left CA3_left,no,MK801Project
+dreadd1_280524_sess11,dreadd1,dreadd1\dreadd1_280524_sess11,c57b1/6,wild type,tmaze,40,CA1_right PTLp_right CA1_left CA3_left,no,MK801Project
